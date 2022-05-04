@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "eslint": "^8.14.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
